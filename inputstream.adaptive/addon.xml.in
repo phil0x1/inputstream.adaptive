@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="inputstream.adaptive"
-  version="19.0.7"
+  version="19.0.8"
   name="InputStream Adaptive"
   provider-name="peak3d">
   <requires>@ADDON_DEPENDS@</requires>
@@ -15,6 +15,10 @@
   <extension point="xbmc.addon.metadata">
     <platform>@PLATFORM@</platform>
     <news>
+v19.0.8 (2022-07-01)
+- Translations updates from Weblate
+	- fi_fi
+
 v19.0.7 (2022-06-23)
 - [HLS] fix regression with chunk transferred AES-128 streams
 
